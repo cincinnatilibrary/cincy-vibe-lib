@@ -1,0 +1,1307 @@
+{
+    "cincy-vibe-lib": {
+        "Book Vibes": {
+            "Artistic Avenues:": {
+                "ideal_for": ["Art lovers and creatives"],
+                "examples": [
+                    "art history",
+                    "books on different art forms",
+                    "biographies of artists",
+                    "books on specific art movements like Renaissance or Modernism",
+                    "novels about the art world, artists, or art theft",
+                    "guidebooks for budding artists",
+                    "coffee table books showcasing art collections",
+                    "historical fiction or biographical novels about renowned artists",
+                    "discussions on the philosophy or psychology of art",
+                    "deep dives into specific art forms like sculpture or digital art"
+                ]
+            },
+            "Cozy Corner": {
+                "ideal_for": ["Readers looking for comforting feel-good stories"],
+                "examples": [
+                    "heartwarming family dramas",
+                    "uplifting romance novels",
+                    "stories set in quaint towns or villages",
+                    "gentle mysteries",
+                    "novels set around cafes, bakeries, or bookshops",
+                    "stories about rejuvenating vacations or retreats",
+                    "tales of enduring friendships",
+                    "books celebrating simple living and small joys",
+                    "novels set during festive seasons like Christmas or Thanksgiving",
+                    "inspirational tales of fresh starts or rediscovering passions",
+                    "stories featuring pets or animals as central characters",
+                    "mysteries centered around life's puzzles and charming discoveries"
+                ]
+            },
+            "Mystical Moonlight": {
+                "ideal_for": ["Readers who enjoy tales of magic, mysticism and the unknown"],
+                "examples": [
+                    "Fantasy novels",
+                    "witchy tales",
+                    "urban legends",
+                    "paranormal romances",
+                    "mythological retellings",
+                    "novels about ancient prophecies or magical societies",
+                    "stories featuring magical creatures like elves or mermaids",
+                    "dark fantasy tales with morally grey characters",
+                    "books set in magical schools or academies",
+                    "time-travel tales mixing magic with history",
+                    "urban fantasy stories blending the modern with the mythical",
+                    "folklore-inspired tales from diverse cultures",
+                    "stories about enchanted artifacts or objects",
+                    "tales exploring the dynamics between gods, demigods, and mortals",
+                    "adventures in mythical lands or magical kingdoms"
+                ]
+            },
+            "Wanderlust Whims": {
+                "ideal_for": ["Readers with an itch for adventure and travel"],
+                "examples": [
+                    "travel memoirs",
+                    "books set in exotic locations",
+                    "adventure tales",
+                    "explorer diaries",
+                    "novels about epic journeys by land, sea, or air",
+                    "stories highlighting cultural exchanges or foreign living experiences",
+                    "books about quests for lost cities or treasures",
+                    "tales of backpacking or solo travels",
+                    "stories set on famous trails or scenic routes",
+                    "travelogues of lesser-known or untouched places",
+                    "fiction set in popular travel destinations",
+                    "books on historical or cultural significance of landmarks",
+                    "adventures with characters in unfamiliar settings",
+                    "inspirational tales of life changes through travel"
+                ]
+            },
+            "Retro Rewind": {
+                "ideal_for": ["Readers who love stories set in the past"],
+                "examples": [
+                    "historical fiction",
+                    "classic literature",
+                    "biographies of historical figures",
+                    "roaring twenties",
+                    "victorian era",
+                    "novels set in ancient civilizations like Egypt or Rome",
+                    "stories centered around significant historical events or periods",
+                    "tales highlighting social dynamics of past eras",
+                    "romantic novels from bygone times",
+                    "books about the wild west and frontier life",
+                    "gothic novels from the 18th and 19th centuries",
+                    "stories of explorers and adventurers from history",
+                    "historical sagas spanning generations",
+                    "tales from medieval times with knights and quests",
+                    "stories set in historic cities capturing their evolution"
+                ]
+            },
+            "Techno Tingle": {
+                "ideal_for": ["Readers who are fans of futuristic settings and technology-driven plots"],
+                "examples": [
+                    "science fiction",
+                    "cyberpunk tales",
+                    "speculative fiction about AI",
+                    "tales of space colonization",
+                    "dystopian futures with advanced tech",
+                    "novels exploring virtual or augmented realities",
+                    "stories on the ethics of cloning or genetic engineering",
+                    "tales of mega-corporations dominating future societies",
+                    "books on post-humanism or human-machine mergers",
+                    "post-apocalyptic worlds rebuilt using advanced technology",
+                    "explorations of alien technologies",
+                    "time-travel tales driven by futuristic tech",
+                    "stories about robotic uprisings or machine sentience",
+                    "tales on a world dominated by the internet or surveillance",
+                    "predictions on the future of medical tech and its impact"
+                ]
+            },
+            "Chills & Thrills": {
+                "ideal_for": ["Readers who enjoy edge-of-the-seat suspense"],
+                "examples": [
+                    "thrillers",
+                    "crime mysteries",
+                    "horror stories",
+                    "psychological thrillers",
+                    "supernatural mysteries",
+                    "espionage tales and spy games",
+                    "stories about unsolved crimes or cold cases",
+                    "tales of protagonists trapped or isolated",
+                    "paranormal thrillers with supernatural elements",
+                    "books on the dark web, hacking, or cybercrimes",
+                    "stories of haunted places or cursed objects",
+                    "mysteries with cryptic clues or treasure hunts",
+                    "thrillers delving into the depths of human psyche",
+                    "stories blurring the line between reality and illusion",
+                    "tales highlighting the antagonist's perspective"
+                ]
+            },
+            "Mind Mingle": {
+                "ideal_for": ["Readers looking for thought-provoking stories"],
+                "examples": [
+                    "philosophical novels",
+                    "abstract fiction",
+                    "challenging literary works",
+                    "existential fiction",
+                    "novels exploring human nature",
+                    "novels posing moral dilemmas or ethical questions",
+                    "tales of alternate realities or metaphysical concepts",
+                    "stories delving into human consciousness or dreams",
+                    "books commenting on societal structures or taboos",
+                    "allegorical tales with symbolic meanings",
+                    "novels blurring reality and fiction",
+                    "stories dissecting relationships or identity",
+                    "fiction exploring theories of time or existence",
+                    "novels on tech impacts on human thought",
+                    "tales promoting introspection or self-discovery"
+                ]
+            },
+            "Reality Reflection": {
+                "ideal_for": ["Readers who appreciate true stories and real experiences"],
+                "examples": [
+                    "Biographies",
+                    "memoirs",
+                    "true crime",
+                    "documentary-style narratives",
+                    "personal essays",
+                    "autobiographies detailing personal journeys",
+                    "investigative journalism pieces",
+                    "stories of survival in extreme conditions",
+                    "first-hand accounts of historical events",
+                    "books on real-life social issues or activism",
+                    "travelogues of real places and cultures",
+                    "tales of human triumph or underdog stories",
+                    "reflections on personal milestones",
+                    "true accounts of encounters with the unknown",
+                    "narratives about real-life icons in arts, music, or sports"
+                ]
+            },
+            "Galactic Gaze": {
+                "ideal_for": ["Readers who are fans of interstellar adventures and space operas"],
+                "examples": [
+                    "space-faring sci-fi",
+                    "alien encounters",
+                    "space mysteries",
+                    "futuristic space colonies",
+                    "intergalactic politics",
+                    "novels on space travel mechanics and wormholes",
+                    "stories of cosmic horrors or vast mysteries",
+                    "tales of space explorers and astronauts",
+                    "books on living in other planets or space habitats",
+                    "epic space battles and interstellar wars",
+                    "stories showcasing diverse alien cultures",
+                    "philosophical tales on space exploration",
+                    "stories about ancient alien civilizations",
+                    "narratives of first contact with aliens",
+                    "space-set romance, drama, or intrigue"
+                ]
+            },
+            "Romantic Reverie": {
+                "ideal_for": ["Readers who love passionate tales and heartfelt relationships"],
+                "examples": [
+                    "romance novels",
+                    "epic love stories",
+                    "romantic dramas",
+                    "historical romance",
+                    "contemporary love stories",
+                    "novels exploring forbidden love or societal defiance",
+                    "stories set in exotic romantic locales",
+                    "tales of modern dating or long-distance relationships",
+                    "books on second chances or rekindled love",
+                    "romantic mysteries with suspense elements",
+                    "stories of love triangles or unrequited love",
+                    "romantic fantasy tales in magical settings",
+                    "narratives on LGBTQ+ relationships",
+                    "romantic comedies or light-hearted love tales",
+                    "cultural or traditional love stories from around the world"
+                ]
+            },
+            "Pastoral Places": {
+                "ideal_for": ["Readers seeking solace in the countryside and nature"],
+                "examples": [
+                    "rural romance",
+                    "farming stories",
+                    "tales set in the heartland",
+                    "nature diaries",
+                    "countryside mysteries",
+                    "novels on small-town dynamics",
+                    "stories celebrating changing seasons",
+                    "pastoral love tales in natural settings",
+                    "books on traditional farming or rural crafts",
+                    "stories of folklore or myths from the countryside",
+                    "nature poetry or prose on flora and fauna",
+                    "tales of urban-to-rural transitions",
+                    "stories on human-land relationships or conservation",
+                    "historical perspectives on rural life",
+                    "dramatic or suspenseful tales set in the countryside"
+                ]
+            },
+            "Cultural Carousel": {
+                "ideal_for": ["Readers interested in diverse cultures and traditions"],
+                "examples": [
+                    "stories set in different countries",
+                    "showcasing unique customs and ways of life",
+                    "cultural festivals",
+                    "traditional folklore",
+                    "novels exploring family dynamics in diverse cultures",
+                    "stories on cultural rites or ceremonies",
+                    "tales on traditional arts, music, or dance",
+                    "books about culinary traditions or unique dishes",
+                    "narratives on intercultural relationships or challenges",
+                    "stories capturing the essence of local markets or bazaars",
+                    "tales set during significant cultural festivals",
+                    "narratives on the history or evolution of a culture",
+                    "books on traditional attire or fashion",
+                    "tales reviving ancient legends or regional myths"
+                ]
+            },
+            "Whimsical Wonders": {
+                "ideal_for": ["Readers who enjoy stories that are imaginative, whimsical, and full of wonder"],
+                "examples": [
+                    "fantasy novels",
+                    "fairy tales",
+                    "magical realism",
+                    "children's literature",
+                    "modern fairy tale retellings",
+                    "enchanting fables",
+                    "novels with mythical creatures or magical lands",
+                    "stories of animate everyday objects",
+                    "tales set in enchanted forests or mysterious islands",
+                    "adventures of wizards, witches, or magical beings",
+                    "reimagined classic fairy tales",
+                    "tales of time travel or alternate magical dimensions",
+                    "narratives drawing on folklore or ancient magic",
+                    "children's tales on magical friendships or discoveries",
+                    "stories with whimsical illustrations or poetic prose"
+                ]
+            },
+            "Daring Deeds": {
+                "ideal_for": ["Readers who love adventure stories with brave heroes and exciting challenges"],
+                "examples": [
+                    "action thrillers",
+                    "historical fiction with epic battles",
+                    "spy novels",
+                    "science fiction novels with interstellar exploration",
+                    "treasure hunt narratives",
+                    "explorer diaries",
+                    "novels on daring heists or high-risk missions",
+                    "stories of survival in rugged terrains",
+                    "tales of naval adventures or pirate quests",
+                    "books on secret agents or espionage",
+                    "narratives involving the supernatural or legendary artifacts",
+                    "stories on martial arts or combat scenarios",
+                    "adventure tales in post-apocalyptic settings",
+                    "novels with puzzles or riddles",
+                    "tales exploring the criminal underworld or mob stories"
+                ]
+            },
+            "Sparkling Sagas": {
+                "ideal_for": [
+                    "Readers who are looking for stories with complex characters",
+                    "sweeping plots",
+                    "and enduring themes"
+                ],
+                "examples": [
+                    "classic novels",
+                    "family dramas",
+                    "epic romances",
+                    "multi-generational sagas",
+                    "historical family sagas",
+                    "tales spanning centuries",
+                    "novels capturing the essence of specific eras",
+                    "stories tracing family lineage and bonds",
+                    "tales exploring impacts of historical events on lives",
+                    "books on the rise and fall of dynasties or empires",
+                    "narratives of intertwined fates and secrets",
+                    "stories juxtaposing different time periods",
+                    "tales incorporating folklore or legends",
+                    "stories on love, loss, and legacy across generations",
+                    "novels on cultural and societal shifts over time"
+                ]
+            },
+            "Enchanting Adventures": {
+                "ideal_for": [
+                    "Readers who want to be transported to other worlds and experience exciting adventures"
+                ],
+                "examples": [
+                    "travel memoirs",
+                    "books set in exotic locations",
+                    "adventure tales with pirates",
+                    "dragons",
+                    "and lost civilizations",
+                    "quests for mythical artifacts",
+                    "journeys through magical lands",
+                    "novels navigating treacherous terrains like jungles or deserts",
+                    "stories introducing magical beings or ancient guardians",
+                    "tales around pivotal quests or missions",
+                    "books intertwining magic or alchemy",
+                    "narratives of brave explorers or chosen heroes",
+                    "stories exploring parallel universes or alternate dimensions",
+                    "tales of deep-sea adventures with mermaids or treasures",
+                    "adventure stories with puzzles or riddles",
+                    "novels blending romance and daring exploits"
+                ]
+            },
+            "Planet Protectors": {
+                "ideal_for": [
+                    "Readers passionate about the environment and sustainability"
+                ],
+                "examples": [
+                    "environmental studies",
+                    "books on climate change",
+                    "sustainable living guides",
+                    "eco-fiction tales of conservation heroes",
+                    "dystopian novels on environmental neglect",
+                    "stories on marine conservation or ocean protection",
+                    "tales on renewable energy or green technologies",
+                    "books on urban gardening or regenerative agriculture",
+                    "narratives on wildlife conservation or natural habitats",
+                    "stories of grassroots environmental movements",
+                    "tales on pollution, waste management, or zero-waste living",
+                    "adventures of eco-warriors or activists",
+                    "books on ethical consumerism or sustainable food",
+                    "stories showcasing pristine landscapes or forests"
+                ]
+            },
+            "Global Gastronomy": {
+                "ideal_for": [
+                    "Readers who are food enthusiasts or interested in culinary adventures"
+                ],
+                "examples": [
+                    "cookbooks from around the world",
+                    "food histories",
+                    "tales of culinary journeys",
+                    "chef memoirs",
+                    "regional cuisine guides",
+                    "novels centered around food and relationships",
+                    "stories of food critics or culinary schools",
+                    "tales exploring origins of iconic dishes or ingredients",
+                    "books on food-related rituals or festivals",
+                    "narratives on farm-to-table or sustainable food",
+                    "stories of street food adventures or markets",
+                    "books about renowned chefs or restaurateurs",
+                    "guides on wine, coffee, or tea traditions",
+                    "gastronomic tours sampling global delicacies",
+                    "books on baking, desserts, or confectionery arts"
+                ]
+            },
+            "Dynamic Dynasties": {
+                "ideal_for": [
+                    "Readers interested in powerful families and empires"
+                ],
+                "examples": [
+                    "histories of royal families",
+                    "empires",
+                    "powerful business dynasties",
+                    "sagas of political families",
+                    "tales of ancient rulers and their courts",
+                    "novels exploring monarchies or royal intrigues",
+                    "stories on romances and rivalries of historic rulers",
+                    "tales uncovering the dark side of power and politics",
+                    "books on wars, marriages, or treaties affecting dynasties",
+                    "narratives on influential women or queens in dynasties",
+                    "insights into the cultural legacies of empires",
+                    "tales on the decline of mighty families or empires",
+                    "books on lesser-known dynasties or indigenous rulers",
+                    "stories on modern dynastic intersections of business and politics",
+                    "fictionalized accounts of real historical dynastic figures"
+                ]
+            },
+            "Heartfelt Happenings": {
+                "ideal_for": [
+                    "Readers who enjoy stories that are warm, heartwarming, and full of emotion"
+                ],
+                "examples": [
+                    "contemporary fiction",
+                    "romance novels",
+                    "coming-of-age stories",
+                    "family dramas",
+                    "tales of friendship",
+                    "stories of personal triumphs",
+                    "novels on everyday challenges and ordinary moments",
+                    "stories on bonds between family members",
+                    "tales of rebuilding after personal tragedies",
+                    "books on relationship complexities",
+                    "narratives showcasing human resilience",
+                    "stories of self-discovery or personal growth",
+                    "tales of serendipity or chance encounters",
+                    "books on community and collective support",
+                    "stories on forgiveness or second chances"
+                ]
+            },
+            "Mystical Musings": {
+                "ideal_for": [
+                    "Readers who are interested in spirituality, mysticism, and the paranormal"
+                ],
+                "examples": [
+                    "new age books",
+                    "religious texts",
+                    "ghost stories",
+                    "supernatural thrillers",
+                    "novels on reincarnation or past lives",
+                    "stories on spiritual awakenings or enlightenment",
+                    "tales on ancient rituals or esoteric traditions",
+                    "books on near-death experiences or the soul's journey",
+                    "narratives introducing mystical creatures or spirit guides",
+                    "stories centered around sacred places or spiritual pilgrimages",
+                    "tales discussing astrology, tarot, or divination",
+                    "books on teachings of spiritual leaders or gurus",
+                    "stories of miraculous events or divine interventions",
+                    "novels blending myth, legend, and spiritual exploration"
+                ]
+            },
+            "Thoughtful Tales": {
+                "ideal_for": [
+                    "Readers who are looking for stories that challenge their minds and make them think"
+                ],
+                "examples": [
+                    "philosophical novels",
+                    "literary fiction",
+                    "dystopian fiction",
+                    "speculative fiction",
+                    "existential fiction",
+                    "narratives exploring societal structures",
+                    "novels on moral dilemmas or ethical choices",
+                    "stories on human psychology or behavior",
+                    "tales commenting on social issues or politics",
+                    "books on alternate realities or nature of existence",
+                    "narratives questioning identity or consciousness",
+                    "stories on human-tech relationships or AI futures",
+                    "tales of utopian visions or societal ideals",
+                    "books challenging conventional wisdom or beliefs",
+                    "stories with abstract, surreal, or avant-garde elements"
+                ]
+            },
+            "Captivating Classics": {
+                "ideal_for": [
+                    "Readers who want to experience the best that literature has to offer"
+                ],
+                "examples": [
+                    "classic novels from various eras",
+                    "literary works from the ancient world",
+                    "works of renowned literary figures",
+                    "epic poems from antiquity",
+                    "Renaissance literature",
+                    "works from the Romantic era",
+                    "seminal plays from renowned playwrights",
+                    "novels that shaped modern fiction",
+                    "timeless tales of adventure and exploration",
+                    "foundational philosophical texts",
+                    "novels illuminating bygone eras' social or cultural fabric",
+                    "stories adapted or reimagined across mediums",
+                    "tales exploring human nature, love, or morality",
+                    "books on different civilizations or cultures",
+                    "narratives celebrated for linguistic beauty or innovation",
+                    "stories of rebellion, revolution, or change",
+                    "tales capturing literary movements like Gothic or Modernism",
+                    "acclaimed, award-winning books",
+                    "stories studied in literature courses",
+                    "novels shaping genres like tragedy, comedy, or satire"
+                ]
+            },
+            "Diverse Delights": {
+                "ideal_for": [
+                    "Readers who want to read stories that reflect the diversity of the world around them"
+                ],
+                "examples": [
+                    "books by authors of color",
+                    "LGBTQIA+ authors",
+                    "and authors from different cultures",
+                    "works translated from other languages",
+                    "stories highlighting minority experiences",
+                    "novels on intersectional identities",
+                    "stories celebrating cultural traditions or rituals",
+                    "tales on indigenous narratives or histories",
+                    "books on diaspora experiences or migration",
+                    "narratives on gender, sexuality, or non-binary identities",
+                    "stories about differently-abled individuals",
+                    "tales on refugees, asylum seekers, or conflict zones",
+                    "books on social justice or activism",
+                    "stories revealing lesser-known histories or figures",
+                    "novels with folklore, mythology, or cultural tales"
+                ]
+            },
+            "Fantastic Faraway Places": {
+                "ideal_for": [
+                    "Readers who want to be transported to other worlds and experience strange and wonderful things"
+                ],
+                "examples": [
+                    "science fiction novels with alien planets",
+                    "fantasy novels with intricate world-building",
+                    "stories introducing unique civilizations or magic systems",
+                    "tales set in post-apocalyptic or dystopian futures",
+                    "books about underwater kingdoms or floating islands",
+                    "narratives of epic quests across challenging terrains",
+                    "stories exploring parallel universes or time-travel",
+                    "tales where the setting deeply influences the plot",
+                    "books drawing from folklore, legends, or myths",
+                    "stories blending genres like steampunk or cyber-fantasy",
+                    "fantasy novels with magical realms",
+                    "historical fiction set in ancient civilizations",
+                    "adventure tales in uncharted territories",
+                    "stories set in mythical lands"
+                ]
+            },
+            "Timeless Treasures": {
+                "ideal_for": [
+                    "Readers interested in stories that have stood the test of time and continue to resonate with readers today"
+                ],
+                "examples": [
+                    "Classic novels",
+                    "novels translated into numerous languages",
+                    "stories sparking literary discussions or critiques",
+                    "tales recommended in academic or literature courses",
+                    "books celebrated with awards or recognition",
+                    "narratives birthing popular quotes or idioms",
+                    "stories influencing other authors or genres",
+                    "tales pivotal in shaping literary movements",
+                    "books referenced in popular culture or art",
+                    "stories frequently reprinted or bestsellers",
+                    "novels adapted into movies, shows, ballets, or operas",
+                    "beloved children's books",
+                    "folktales and myths",
+                    "epic poems",
+                    "works that have inspired adaptations across media"
+                ]
+            },
+            "Spooky Spaces": {
+                "ideal_for": [
+                    "Readers who enjoy a good scare and love to be creeped out"
+                ],
+                "examples": [
+                    "Horror novels",
+                    "novels about haunted houses or cursed objects",
+                    "stories with malevolent entities or folklore creatures",
+                    "tales involving witches, demons, or rituals",
+                    "books on apocalyptic scenarios or zombie outbreaks",
+                    "narratives on human madness or obsession",
+                    "stories inspired by true events or unsolved mysteries",
+                    "tales with psychological twists or illusions",
+                    "books blending horror with magic or myth",
+                    "stories set in atmospheric settings like foggy moors",
+                    "novels in sub-genres like body or cosmic horror",
+                    "ghost stories",
+                    "suspenseful thrillers",
+                    "gothic literature",
+                    "psychological horror",
+                    "paranormal mysteries"
+                ]
+            },
+            "Thoughtful Things": {
+                "ideal_for": [
+                    "Readers who are looking for books that will make them think about the world in new ways"
+                ],
+                "examples": [
+                    "non-fiction books on philosophy",
+                    "novels tackling moral or ethical dilemmas",
+                    "works on human behavior and cognition",
+                    "books on cultural studies or societal norms",
+                    "titles discussing neuroscience or consciousness",
+                    "works on political systems or societal evolution",
+                    "books exploring existential themes or life's purpose",
+                    "titles on art, aesthetics, or beauty philosophy",
+                    "works engaging with debates on reality or free will",
+                    "books bridging science and philosophy like cosmology",
+                    "works promoting critical thinking or argumentation",
+                    "sociology",
+                    "psychology",
+                    "works by renowned philosophers",
+                    "books exploring societal paradigms",
+                    "thought-provoking topics"
+                ]
+            },
+            "Real-World Reads": {
+                "ideal_for": [
+                    "Readers who want to learn more about the real world and the people who live in it"
+                ],
+                "examples": [
+                    "non-fiction books on history",
+                    "biographies or memoirs of significant figures",
+                    "works on social issues like climate change or human rights",
+                    "books on global economies or industries",
+                    "titles exploring cultures or traditions worldwide",
+                    "narratives on major historical events or revolutions",
+                    "works discussing technological advancements",
+                    "books breaking down scientific discoveries or theories",
+                    "titles examining philosophical or ethical questions",
+                    "reports on pressing global issues or incidents",
+                    "collections of personal essays on societal themes",
+                    "current events",
+                    "science",
+                    "and other real-world topics",
+                    "documentaries in book form",
+                    "analytical takes on global events"
+                ]
+            },
+            "Diverse Dreams": {
+                "ideal_for": [
+                    "Readers who want to read stories that reflect the diversity of human experiences"
+                ],
+                "examples": [
+                    "memoirs by people from different backgrounds",
+                    "novels championing LGBTQIA+ voices and experiences",
+                    "works on indigenous communities' lives and traditions",
+                    "books on immigrants, refugees, or diaspora experiences",
+                    "stories focusing on intersectional identities",
+                    "narratives highlighting people with disabilities",
+                    "titles on social justice, equity, and activism",
+                    "books celebrating traditions or folklore of various cultures",
+                    "anthologies of women from diverse backgrounds",
+                    "novels with characters from diverse socio-economic backgrounds",
+                    "works spotlighting young diverse voices",
+                    "novels about diverse characters",
+                    "non-fiction books about different cultures",
+                    "anthologies of diverse voices",
+                    "stories highlighting marginalized communities"
+                ]
+            },
+            "Urban Underdogs": {
+                "ideal_for": [
+                    "Readers interested in stories about people who are struggling to survive and thrive in urban environments"
+                ],
+                "examples": [
+                    "novels about urban gang dynamics and conflicts",
+                    "stories of immigrants or refugees in cities",
+                    "books focusing on the urban youth and their aspirations",
+                    "narratives on life in urban slums and their spirit",
+                    "tales exploring city subcultures or underground scenes",
+                    "works discussing urban gentrification and its impacts",
+                    "books on urban activism or housing rights",
+                    "stories celebrating unsung urban community heroes",
+                    "novels intertwining romance or bonds amidst urban challenges",
+                    "narratives where the city itself is a vibrant character",
+                    "novels about poverty, crime and social injustice in cities",
+                    "memoirs of people who have overcome adversity in urban areas",
+                    "stories of urban renewal",
+                    "tales of grassroots movements in cities"
+                ]
+            },
+            "Neighborhood Narratives": {
+                "ideal_for": [
+                    "Readers who are interested in stories about the people and places that make up their communities"
+                ],
+                "examples": [
+                    "novels weaving tales around iconic Cincinnati landmarks",
+                    "books exploring diverse Cincinnati neighborhoods",
+                    "narratives recounting significant events in Cincinnati's history",
+                    "works spotlighting local Cincinnati heroes or leaders",
+                    "stories celebrating Cincinnati's culinary scene",
+                    "tales on the arts and entertainment of Cincinnati",
+                    "books on Cincinnati's sports culture and teams",
+                    "anthologies of tales from Cincinnati residents",
+                    "works on Cincinnati's architectural heritage",
+                    "narratives on seasonal Cincinnati festivities and traditions",
+                    "novels set in Cincinnati",
+                    "memoirs of people who have grown up or lived in Cincinnati",
+                    "non-fiction books about the history and culture of Cincinnati",
+                    "local Cincinnati folklore",
+                    "stories of Cincinnati community events and festivals"
+                ]
+            },
+            "Concrete Jungles": {
+                "ideal_for": [
+                    "Readers who enjoy stories that explore the complex and often contradictory nature of urban life"
+                ],
+                "examples": [
+                    "novels exploring city nightlife, from glitzy to gritty",
+                    "stories centered around urban mysteries or crimes",
+                    "narratives on socio-economic disparities in cities",
+                    "books on unique urban subcultures or movements",
+                    "tales capturing romance in metropolitan settings",
+                    "works on architectural marvels and city transformation",
+                    "novels about urban migration and identity quests",
+                    "books on the politics and challenges of urban governance",
+                    "stories celebrating urban arts, music, and festivals",
+                    "narratives on environmental challenges in cities",
+                    "novels about the beauty and the ugliness of cities",
+                    "memoirs of people experiencing city life's highs and lows",
+                    "non-fiction books about urban life challenges and opportunities",
+                    "Urban fantasy",
+                    "tales of city landmarks and their histories"
+                ]
+            },
+            "Reality Rundown": {
+                "ideal_for": [
+                    "Readers who are interested in current events or recent history"
+                ],
+                "examples": [
+                    "books on significant political campaigns or elections",
+                    "narratives on major global events like pandemics",
+                    "works on recent social movements like Black Lives Matter",
+                    "accounts on economic shifts or market crashes",
+                    "stories on modern-day technology and its challenges",
+                    "books on the evolving landscape of media and journalism",
+                    "narratives on recent scientific breakthroughs or space explorations",
+                    "accounts of modern-day cultural shifts and global pop culture",
+                    "works on modern conflicts, wars, or peace talks",
+                    "books on the migration and refugee crises",
+                    "modern events",
+                    "recent non-fiction history",
+                    "modern history summaries",
+                    "journalistic accounts of major events",
+                    "exposes"
+                ]
+            },
+            "Soulful Search": {
+                "ideal_for": [
+                    "Readers interested in self-discovery and spiritual growth"
+                ],
+                "examples": [
+                    "books on spiritual practices and rituals worldwide",
+                    "narratives exploring mindfulness and meditation",
+                    "works on holistic well-being and spiritual integration",
+                    "stories of pilgrimages or sacred journeys for enlightenment",
+                    "books on teachings of renowned spiritual leaders",
+                    "narratives on the intersection of science and spirituality",
+                    "works on positive thinking, visualization, and manifestation",
+                    "books providing spiritual guidance for life's challenges",
+                    "accounts of near-death experiences or reincarnation",
+                    "works on soulmates, twin flames, and spiritual relationships",
+                    "memoirs focused on personal growth",
+                    "spirituality guides",
+                    "introspective travelogues"
+                ]
+            },
+            "Planet Patrol": {
+                "ideal_for": [
+                    "Environmentally conscious readers"
+                ],
+                "examples": [
+                    "books on the science of climate change and its implications",
+                    "narratives highlighting pollution impacts on oceans, air, and land",
+                    "works discussing biodiversity, extinction dangers, and conservation",
+                    "stories of activists or organizations championing environmental causes",
+                    "books on renewable energy sources and their challenges",
+                    "narratives exploring urban development and environmental sustainability",
+                    "works on global politics of climate change and international agreements",
+                    "books with practical advice on sustainable lifestyles",
+                    "accounts of reforestation or conservation projects",
+                    "works on environmental ethics and planetary responsibility",
+                    "climate change challenges and responses",
+                    "conservation efforts",
+                    "sustainability guides"
+                ]
+            },
+            "Health Huddle": {
+                "ideal_for": [
+                    "Readers focused on well-being, fitness, and nutrition"
+                ],
+                "examples": [
+                    "books on benefits of diets like veganism or Mediterranean",
+                    "narratives on mental health and mindfulness strategies",
+                    "works discussing alternative medicine like Ayurveda or acupuncture",
+                    "memoirs of personal health and well-being transformations",
+                    "deep dives into fitness regimes like yoga or strength training",
+                    "narratives exploring sleep's relationship with health",
+                    "works providing insights into specific health conditions",
+                    "books on holistic health and well-being",
+                    "guides on health during aging and longevity",
+                    "works on hydration, vitamins, and supplements' importance",
+                    "diet and nutrition guides",
+                    "wellness routines",
+                    "medical insights",
+                    "exercise and fitness"
+                ]
+            },
+            "Techie Talk": {
+                "ideal_for": [
+                    "Readers keen on the latest in technology and its implications"
+                ],
+                "examples": [
+                    "books on the rise of Artificial Intelligence and Machine Learning",
+                    "narratives on blockchain technology and cryptocurrencies",
+                    "works discussing VR, AR, and MR technologies",
+                    "stories on data privacy debates and cybersecurity challenges",
+                    "books about the Internet of Things and smart city innovations",
+                    "narratives on the gig economy and the future of tech-driven employment",
+                    "works highlighting technology in healthcare and medical advancements",
+                    "books discussing ethical challenges of biotechnology and genetic engineering",
+                    "accounts of tech startup journeys and innovations",
+                    "works on deepfakes, social media algorithms, and digital misinformation",
+                    "overviews of tech trends",
+                    "analyses of emerging technologies",
+                    "ethical considerations in the digital age"
+                ]
+            },
+            "Money Matters": {
+                "ideal_for": [
+                    "Financial aficionados and those seeking economic insights"
+                ],
+                "examples": [
+                    "books on budgeting, saving, and personal finance management",
+                    "narratives on the history of money and economic systems",
+                    "works discussing macro and microeconomics and market dynamics",
+                    "insights into stock markets and trading strategies",
+                    "books demystifying financial instruments like derivatives and mutual funds",
+                    "narratives on fintech and the future of financial transactions",
+                    "works on retirement planning, tax optimization, and estate planning",
+                    "books discussing global economic events and their implications",
+                    "accounts of influential economists and their theories",
+                    "works on politics, governance, and economic policies",
+                    "personal finance guides",
+                    "economic theories",
+                    "investment strategies"
+                ]
+            },
+            "Culture Cruise": {
+                "ideal_for": [
+                    "Those interested in diving into diverse cultures and societies"
+                ],
+                "examples": [
+                    "books on cultural festivals, rituals, and ceremonies",
+                    "narratives exploring the history of traditional art forms",
+                    "works on the role of language and oral traditions in cultural identities",
+                    "memoirs of cross-cultural journeys and experiences",
+                    "books on traditional cuisines and their cultural significance",
+                    "narratives about indigenous cultures and their beliefs",
+                    "works discussing colonization, migration, and cultural amalgamation",
+                    "books on the interplay of religion, spirituality, and culture",
+                    "accounts of traditional clothing and their symbolism",
+                    "works on music, dance, and performance arts in cultural contexts",
+                    "anthropological studies",
+                    "cultural analyses",
+                    "travel memoirs"
+                ]
+            },
+            "Leader's Lore": {
+                "ideal_for": [
+                    "Readers seeking insights into leadership and management"
+                ],
+                "examples": [
+                    "books dissecting leadership styles of iconic figures",
+                    "narratives on team management, conflict resolution, and work culture",
+                    "works on psychological aspects of leadership and decision-making",
+                    "memoirs of business magnates and their leadership journeys",
+                    "books discussing ethics, integrity, and values in leadership",
+                    "narratives on strategic thinking and long-term planning",
+                    "works addressing leadership challenges in the digital age",
+                    "books on leadership in diverse cultural and societal contexts",
+                    "accounts of women leaders and their unique challenges",
+                    "works on mentorship, coaching, and continuous learning in leadership",
+                    "biographies of influential leaders",
+                    "management philosophies",
+                    "organizational strategies"
+                ]
+            },
+            "Scientific Scoop": {
+                "ideal_for": [
+                    "Those with a penchant for scientific discoveries and explanations"
+                ],
+                "examples": [
+                    "books simplifying complex scientific concepts for the layperson",
+                    "narratives on the history and evolution of scientific thought",
+                    "works discussing advancements in quantum mechanics, genetics, and neuroscience",
+                    "stories of groundbreaking scientific discoveries and their implications",
+                    "books exploring the mysteries of the cosmos and extraterrestrial life",
+                    "narratives on the wonders of the natural world and ecosystems",
+                    "works on the ethical challenges of scientific advancements",
+                    "books discussing the interplay of science with philosophy or religion",
+                    "accounts of technological innovations and their scientific underpinnings",
+                    "works on environmental science, climate change, and sustainability",
+                    "popular science books",
+                    "explorations of specific scientific phenomena",
+                    "stories of scientific breakthroughs"
+                ]
+            },
+            "Epic Exploits": {
+                "ideal_for": [
+                    "Readers who enjoy grand adventures and sweeping tales"
+                ],
+                "examples": [
+                    "books set in intricately crafted universes with deep lore",
+                    "narratives of heroes on grand quests against great odds",
+                    "works introducing legendary artifacts and mythical beasts",
+                    "stories of vast wars, revolutions, and world-altering events",
+                    "books exploring power dynamics in massive empires and kingdoms",
+                    "narratives delving into the complexities of magic and its wielders",
+                    "works on parallel worlds, dimensions, and their intersections",
+                    "books exploring philosophical dilemmas in epic settings",
+                    "accounts of anti-heroes and their pivotal roles in grand tales",
+                    "works intertwining romance, betrayal, and deep bonds in epic narratives",
+                    "High fantasy novels with complex worlds and magic systems",
+                    "Space operas spanning galaxies",
+                    "Novels with large casts of characters and intricate plots"
+                ]
+            },
+            "Nurtured Natures": {
+                "ideal_for": [
+                    "Readers interested in the environment, animals, and nature"
+                ],
+                "examples": [
+                    "books exploring specific ecosystems and their intricacies",
+                    "narratives highlighting the wonders of the animal kingdom",
+                    "works discussing environmental challenges like climate change and pollution",
+                    "stories of environmentalists and their conservation efforts",
+                    "books on spiritual and philosophical connections with nature",
+                    "narratives of expeditions and adventures in the wild",
+                    "works providing insights into sustainable living and eco-practices",
+                    "books celebrating natural phenomena and wonders",
+                    "accounts of indigenous cultures and their bond with nature",
+                    "works delving into the world of flora and its ecological significance",
+                    "Environmentalist memoirs",
+                    "Nature-themed poetry",
+                    "Stories set in the wilderness or featuring animal protagonists"
+                ]
+            },
+            "Poetic Prose": {
+                "ideal_for": [
+                    "Readers who appreciate beautifully written stories"
+                ],
+                "examples": [
+                    "books where narrative style is central to the experience",
+                    "narratives blending prose and poetry for rhythmic storytelling",
+                    "works employing poetic techniques like metaphors and allegories",
+                    "stories emphasizing the beauty and emotion of language",
+                    "books showcasing the power of linguistic minimalism",
+                    "narratives resonating deeply with evocative language",
+                    "collections of short stories or essays with poetic flair",
+                    "acclaimed works celebrated for their linguistic beauty",
+                    "books by authors renowned for their distinctive narrative style",
+                    "works exploring the fusion of cultures and languages in prose",
+                    "Literary fiction with lush descriptions",
+                    "Novels written in verse",
+                    "Anthologies of emotive poetry"
+                ]
+            }
+        },
+        "Graphic Novel Vibes": {
+            "Inked Adventures": {
+                "ideal_for": [
+                    "Those who enjoy epic quests and sprawling narratives"
+                ],
+                "examples": [
+                    "graphic novels building intricate magical worlds",
+                    "works depicting grand battles and quests for artifacts",
+                    "narratives exploring the classic hero's journey",
+                    "stories delving into politics and power dynamics in fantasy realms",
+                    "tales blending folklore, mythology, and fantasy",
+                    "graphic novels with innovative art styles enhancing the epic narrative",
+                    "stories showcasing character development in grand settings",
+                    "works weaving romance, sacrifice, and moral choices into the adventure",
+                    "graphic novels by renowned artists known for epic storytelling",
+                    "series or anthologies diving deep into world lore and history",
+                    "Fantasy tales",
+                    "heroic sagas and sprawling epics"
+                ]
+            },
+            "Metro Moods": {
+                "ideal_for": [
+                    "Readers who love urban settings from gritty streets to dazzling cityscapes"
+                ],
+                "examples": [
+                    "graphic novels portraying the hustle of city life and diverse destinies",
+                    "works delving into the city's underworld and crime dynamics",
+                    "narratives exploring the blend of tradition and modernity in cities",
+                    "stories blending magic and fantasy in urban environments",
+                    "graphic novels commenting on urban challenges like gentrification",
+                    "works capturing the vibrant nightlife of cities",
+                    "stories showcasing urban architectural beauty and designs",
+                    "narratives focusing on personal struggles of city dwellers",
+                    "graphic novels with art styles that vividly depict cityscapes",
+                    "anthologies exploring varied perspectives of city life",
+                    "Noir detective stories",
+                    "urban fantasies",
+                    "tales of city life and crime"
+                ]
+            },
+            "Cosmic Canvas": {
+                "ideal_for": [
+                    "Fans of intergalactic tales and space adventures"
+                ],
+                "examples": [
+                    "graphic novels exploring alien cultures and histories",
+                    "works depicting epic space battles with technological marvels",
+                    "narratives probing philosophical questions of space exploration",
+                    "stories delving into space politics and interstellar diplomacy",
+                    "graphic novels with hard science fiction elements",
+                    "works showcasing the beauty of cosmic phenomena",
+                    "stories focusing on human challenges in space",
+                    "narratives blending space mysteries and suspense",
+                    "graphic novels with art styles capturing the wonder of space",
+                    "series taking readers on journeys through diverse cosmic realms",
+                    "Space operas",
+                    "alien encounters",
+                    "stories of interstellar warfare"
+                ]
+            },
+            "Mystical Motifs": {
+                "ideal_for": [
+                    "Those drawn to tales of magic",
+                    "spirituality",
+                    "and the supernatural"
+                ],
+                "examples": [
+                    "graphic novels reimagining classic myths and legends",
+                    "works focusing on the lives of magical beings like witches and wizards",
+                    "narratives exploring relationships between humans and deities",
+                    "stories tapping into varied cultural spiritual practices",
+                    "graphic novels using magic as metaphorical narratives",
+                    "works showcasing magical landscapes like enchanted forests",
+                    "stories delving into rituals, spells, and magical artifacts",
+                    "narratives blending horror, suspense, and magic",
+                    "graphic novels with ethereal art styles enhancing the mystical vibe",
+                    "series introducing a variety of magical creatures and realms",
+                    "Witchcraft",
+                    "folklore adaptations",
+                    "stories of gods and spirits"
+                ]
+            },
+            "Historical Hues": {
+                "ideal_for": [
+                    "Readers who appreciate visual retellings of past events or eras"
+                ],
+                "examples": [
+                    "graphic novels recreating pivotal historical moments",
+                    "works offering biographical insights into historical figures",
+                    "narratives exploring lesser-known historical events or cultures",
+                    "stories blending historical settings with fantasy elements",
+                    "graphic novels portraying daily life in various historical periods",
+                    "works focusing on art and culture evolution across eras",
+                    "narratives delving into specific periods like the Renaissance or Victorian era",
+                    "stories tackling historical controversies or mysteries",
+                    "graphic novels with art styles echoing the period they depict",
+                    "series taking readers through chronological journeys of history",
+                    "period dramas",
+                    "biographical accounts",
+                    "stories set in a distinctive historical setting"
+                ]
+            },
+            "Reality Renderings": {
+                "ideal_for": [
+                    "Those who prefer graphic novels grounded in reality"
+                ],
+                "examples": [
+                    "graphic memoirs offering intimate life glimpses",
+                    "works delving into societal issues and urban life",
+                    "narratives focusing on family dynamics and relationships",
+                    "stories providing insights into specific professions or subcultures",
+                    "graphic novels tackling mental health and self-discovery",
+                    "works exploring experiences of diverse communities",
+                    "stories capturing the essence of specific eras or decades",
+                    "graphic travelogues chronicling varied journeys",
+                    "graphic novels using minimalistic art to convey life's essence",
+                    "series presenting varied human experiences from different backgrounds",
+                    "Autobiographies",
+                    "slice-of-life stories",
+                    "contemporary tales"
+                ]
+            },
+            "Technicolor Thrills": {
+                "ideal_for": [
+                    "Fans of action-packed stories with vibrant visuals"
+                ],
+                "examples": [
+                    "graphic novels exploring superhero origins and adventures",
+                    "works depicting dystopian futures with rising heroes",
+                    "vigilante tales examining blurred moralities",
+                    "sci-fi thrillers set in futuristic landscapes with space battles",
+                    "fantasy adventures featuring epic battles and quests",
+                    "crime dramas delving into urban underworlds",
+                    "genre-blending stories with horror, action, and fantasy elements",
+                    "graphic novels showcasing martial arts and combat sequences",
+                    "post-apocalyptic tales of survival and challenges",
+                    "series or anthologies with short, adrenaline-packed stories",
+                    "superhero sagas",
+                    "dystopian futures",
+                    "tales of vigilantes"
+                ]
+            },
+            "Cultural Colors": {
+                "ideal_for": [
+                    "Readers interested in exploring different cultures through visuals"
+                ],
+                "examples": [
+                    "graphic novels depicting daily life across varied cultures",
+                    "stories celebrating global festivals and their rituals",
+                    "works focusing on traditional art forms and crafts",
+                    "narratives retelling folklore and legends with modern twists",
+                    "graphic memoirs sharing personal cultural experiences",
+                    "stories exploring unique societal norms and rites of passage",
+                    "graphic novels highlighting diverse cuisines and culinary traditions",
+                    "works on cultural assimilation, migration, and blended traditions",
+                    "stories set against culturally significant historical events",
+                    "graphic novels showcasing linguistic and literary diversity",
+                    "stories showcasing unique traditions",
+                    "festivals",
+                    "and lifestyles from around the world"
+                ]
+            },
+            "Emotional Etchings": {
+                "ideal_for": [
+                    "Those who seek deep emotional and psychological explorations"
+                ],
+                "examples": [
+                    "graphic novels addressing mental health challenges like depression or anxiety",
+                    "stories exploring complex relationship dynamics",
+                    "illustrated memoirs capturing raw emotions of life events",
+                    "works delving into grief, healing, and recovery",
+                    "tales addressing societal pressures and self-acceptance",
+                    "stories focusing on challenges of identity and belonging",
+                    "graphic novels depicting emotional journeys of creative individuals",
+                    "narratives exploring existential themes and the human condition",
+                    "stories using abstract art to represent complex emotions",
+                    "graphic novels tackling sensitive issues with empathy and hope",
+                    "Graphic novels dealing with mental health",
+                    "emotional journeys",
+                    "personal struggles"
+                ]
+            },
+            "Whimsical Worlds": {
+                "ideal_for": [
+                    "Readers who love imaginative and quirky tales"
+                ],
+                "examples": [
+                    "graphic novels set in magical kingdoms or floating islands",
+                    "stories featuring bizarre creatures and talking animals",
+                    "tales blending the mundane with the magical in surreal ways",
+                    "works employing absurd humor and satirical takes",
+                    "personal stories set in dream-like fantastical realities",
+                    "reimagined fairy tales, folk stories, or myths in whimsical settings",
+                    "stories exploring parallel universes or fantastical versions of our world",
+                    "graphic novels playing with scale and perspective",
+                    "works using vibrant art styles to complement whimsical narratives",
+                    "stories offering profound insights through allegory in whimsical settings",
+                    "fantastical worlds",
+                    "absurd humor",
+                    "imaginative creatures and settings"
+                ]
+            },
+            "Prideful Panels": {
+                "ideal_for": [
+                    "Readers interested in LGBTQIA+ stories told through vivid visuals"
+                ],
+                "examples": [
+                    "graphic memoirs chronicling personal journeys of coming out and self-acceptance",
+                    "stories exploring relationship dynamics within the LGBTQIA+ community",
+                    "tales delving into LGBTQIA+ rights, activism, and historical figures",
+                    "works portraying diverse LGBTQIA+ experiences across cultures and times",
+                    "graphic novels addressing challenges and triumphs faced by the community",
+                    "stories celebrating LGBTQIA+ pride and culture",
+                    "fantasy or sci-fi tales with LGBTQIA+ allegorical themes",
+                    "narratives focusing on transgender, non-binary, and genderqueer identities",
+                    "stories about LGBTQIA+ friendships, support networks, and chosen families",
+                    "graphic novels highlighting intersectionality within the LGBTQIA+ community",
+                    "Stories of love, acceptance, identity, and pride"
+                ]
+            },
+            "Horror Highlights": {
+                "ideal_for": [
+                    "Those who enjoy visual tales of terror and suspense"
+                ],
+                "examples": [
+                    "stories set in haunted houses or cursed locales",
+                    "graphic novels portraying classic monsters in new terrifying contexts",
+                    "psychological horror tales playing with perception and reality",
+                    "works exploring dark urban legends, myths, or twisted folktales",
+                    "tales of possession, exorcism, and supernatural threats",
+                    "stories focusing on human horrors like serial killers or cults",
+                    "post-apocalyptic horror narratives with monstrous threats",
+                    "cosmic horror stories with unknowable, menacing entities",
+                    "anthologies of short, chilling horror tales",
+                    "graphic novels blending horror with other genres for unique narratives",
+                    "Ghost stories",
+                    "monsters",
+                    "psychological horrors"
+                ]
+            },
+            "Past in Panels": {
+                "ideal_for": [
+                    "Readers wanting a look at history through illustrations"
+                ],
+                "examples": [
+                    "visual retellings of famous battles, wars, and revolutions",
+                    "graphic biographies of influential historical figures",
+                    "stories set during pivotal historical moments like the Renaissance or Civil Rights Movement",
+                    "explorations of ancient cultures like the Egyptians or Greeks",
+                    "tales of historical exploration and discovery",
+                    "works highlighting lesser-known historical events or perspectives",
+                    "graphic novels blending historical facts with myths and legends",
+                    "stories about ancient rituals and traditions",
+                    "depictions of historical cities, architecture, and landmarks",
+                    "works addressing historical controversies and debates",
+                    "overviews of ancient civilizations",
+                    "significant epochs or comprehensive historical timelines",
+                    "historical events or persons"
+                ]
+            },
+            "Battles & Brushstrokes": {
+                "ideal_for": [
+                    "Readers interested in War stories and military accounts"
+                ],
+                "examples": [
+                    "graphic representations of major wars like WWII or the Vietnam War",
+                    "biographical accounts of renowned military leaders",
+                    "tales focusing on the daily lives of soldiers",
+                    "stories of covert operations and espionage",
+                    "depictions of naval and submarine warfare",
+                    "explorations of air warfare and aerial combat",
+                    "works highlighting the home front and war's impact on civilians",
+                    "graphic novels addressing post-war reconstruction and veterans' trauma",
+                    "depictions of ancient and medieval warfare techniques",
+                    "stories blending war backdrops with personal dramas or love stories",
+                    "depictions of famous battles",
+                    "sieges and military tactics"
+                ]
+            },
+            "Rise & Resilience": {
+                "ideal_for": [
+                    "Readers interested in stories of communities or individuals rising against odds"
+                ],
+                "examples": [
+                    "biographical accounts of individuals overcoming immense challenges",
+                    "stories of communities uniting against natural or societal adversities",
+                    "tales of refugee experiences and their resilience",
+                    "depictions of historical events showcasing national or group resilience, like the Great Depression",
+                    "narratives on mental health challenges and triumphs",
+                    "works highlighting the resilience of indigenous communities",
+                    "stories of athletes or teams defying odds for greatness",
+                    "accounts of personal challenges and how they were overcome",
+                    "inspirational tales of innovation during crises",
+                    "lesser-known acts of resistance and resilience during major historical events",
+                    "tales of resilience during wars",
+                    "famines",
+                    "pandemics"
+                ]
+            },
+            "Dynamic Doodles": {
+                "ideal_for": ["Fans of hand-drawn, sketchy art styles and raw narratives"],
+                "examples": [
+                    "personal memoirs illustrated with doodle art to convey emotions",
+                    "experimental narratives with nonlinear or abstract plots complemented by spontaneous art",
+                    "tales evolving from initial margin doodles or sketches",
+                    "works blending handwritten notes, doodles, and comic panels",
+                    "graphic novels emphasizing rawness through black and white or limited colors",
+                    "stories exploring the artist's evolution in style or personal journey",
+                    "anthologies of short stories unified by the doodle art style",
+                    "tales using doodle art to depict a character's inner thoughts or subconscious",
+                    "graphic novels using doodle style for humor, satire, or commentary",
+                    "genre-blending works mixing diary formats with fantasy elements in a doodle style",
+                    "journals and diaries turned into graphic novels",
+                    "stories where the art feels spontaneous and unrefined"
+                ]
+            },
+            "Galactic Galleries": {
+                "ideal_for": ["Readers who love exploring outer space through visuals"],
+                "examples": [
+                    "intergalactic explorations of new worlds and ecosystems",
+                    "close encounters with diverse alien species and the resulting cultural exchanges",
+                    "tales of space survival on unknown planets or lost in space",
+                    "narratives exploring time dilation effects of near-light-speed travel",
+                    "dystopian stories set on space colonies or megastructures",
+                    "chronicles of spacefaring civilizations, their histories, politics, and wars",
+                    "accessible stories diving into space science topics like black holes or quantum phenomena",
+                    "tales uncovering ancient alien civilizations and their left-behind relics",
+                    "space mysteries centered on cosmic phenomena or interstellar detective work",
+                    "philosophical stories pondering life's meaning in the vast universe",
+                    "space adventures with aliens and spaceships",
+                    "futuristic tales set on distant planets",
+                    "narratives of interstellar wars and politics"
+                ]
+            },
+            "___Noir Notes": {
+                "ideal_for": ["Fans of dark, moody atmospheres and crime stories"],
+                "examples": [
+                    "Detective tales set in a retro era",
+                    "Stories with a grayscale or limited color palette",
+                    "Crime mysteries with a focus on character psychology"
+                ]
+            }
+        }
+    }
+}
