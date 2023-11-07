@@ -2,6 +2,23 @@
 
 A Public Library book recommendation engine based on "vibes"
 
+## Pronounciation 
+http://ipa-reader.xyz/?text=v%CA%8C%C9%AAb%20l%C9%AAb
+
+## Similar Projects and Inspiration
+
+https://github.com/veekaybee/viberary
+
+https://www.seattletimes.com/entertainment/books/seattles-newest-bookstore-oh-hello-again-has-a-novel-system-categorizing-books-by-emotions/
+
+https://itsherfactory.substack.com/p/what-is-a-vibe (Robin James, Author of THE FUTURE OF ROCK AND ROLL)
+
+https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-vibes-revival
+
+# Data Sets
+
+
+
 ## logo prompts:
 
 ```
